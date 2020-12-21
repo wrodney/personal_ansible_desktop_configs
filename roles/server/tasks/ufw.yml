@@ -182,7 +182,7 @@
     comment: nrpe
     rule: allow
     port: '5666'
-    src: 173.10.59.105/32
+    src: 172.14.56.123/32
   when:
     - linode_instance is defined
     - linode_instance == true
@@ -194,7 +194,7 @@
     comment: ssh from home network
     rule: allow
     port: ssh
-    src: 173.10.59.105/32
+    src: 172.14.59.123/32
   when:
     - linode_instance is defined
     - linode_instance == true
