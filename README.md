@@ -1,4 +1,6 @@
 # Personal Ansible Desktop Configs
+#
+
 
 I use Ansible to configure all of my desktops, laptops, and servers. I use the Ansible Pull method, which I describe in both my Ansible Pull tutorial (already uploaded) and my Ansible desktop tutorial (will be published by December 11th 2020). It's fully automated, and scripts everything from system services to GNOME desktop settings.
 
