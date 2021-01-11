@@ -1,9 +1,19 @@
 [server]
-server1.mydomain.com
-server2.mydomain.com
-server3.mydomain.com
+192.168.1.31
+192.168.1.92
+192.168.1.120
+192.168.1.134
+192.168.1.66
+192.168.1.136
+192.168.1.145
+192.168.1.104
+192.168.1.101
+192.168.1.102
+192.168.1.103
+192.168.1.67
 
 [workstation]
-workstation1.mydomain.com
-workstation2.mydomain.com
-workstation3.mydomain.com
+192.168.1.107
+192.168.1.99
+192.168.1.95
+192.168.56.1
